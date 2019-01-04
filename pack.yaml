@@ -5,6 +5,6 @@ description : Apache Cassandra Integrations
 keywords:
   - datastax
   - cassandra
-version : 0.1.1
+version : 0.1.2
 author : StackStorm, Inc.
 email : info@stackstorm.com
